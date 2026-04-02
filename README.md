@@ -198,8 +198,6 @@ BUILT_IN_FORGE_API_KEY=your-google-ai-api-key
 > **macOS tip:** `.env` files are hidden by default. Press **Cmd+Shift+.** in Finder to toggle hidden file visibility.
 
 ---
-```
----
 
 ## Step 6 — Push the Database Schema
 
